@@ -48,15 +48,6 @@ Tenho prática em desenvolvimento web por meio de projetos acadêmicos e partici
 
 ---
 
-## 📊 Estatísticas
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielBielFerreira&show_icons=true&hide_title=true&hide_border=true&theme=dark" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBielFerreira&layout=compact&hide_border=true&theme=dark" />
-
-</div>
-
----
 
 ## 🐍 Contribuições
 <div align="center">
