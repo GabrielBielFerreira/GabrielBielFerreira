@@ -51,6 +51,5 @@ Tenho prática em desenvolvimento web por meio de projetos acadêmicos e partici
 
 ## 🐍 Contribuições
 <div align="center">
-![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/02e44994-d889-4681-87dd-fefe994bb60c)
 
 </div>
