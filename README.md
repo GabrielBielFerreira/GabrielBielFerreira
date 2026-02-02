@@ -35,8 +35,7 @@ Graduando em **Engenharia de Software** • Foco em **Desenvolvimento Web**
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="28px" /> Sobre mim
-Sou estudante de Engenharia de Software e busco oportunidade como **estagiário/jovem aprendiz** ou **posição júnior**.
-Tenho prática em desenvolvimento web por meio de projetos acadêmicos e participação em iniciativas de tecnologia.
+Sou estudante de Engenharia de Software tenho prática em desenvolvimento full stack por meio de projetos acadêmicos e participação em iniciativas de tecnologia volntariado em eventos de tecnologia .
 
 ---
 
