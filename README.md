@@ -37,8 +37,9 @@ Tenho prática em desenvolvimento web por meio de projetos acadêmicos e partici
 
 ## 🗄️ Banco de dados
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,pgadmin" />
 </div>
+
 
 ## 🧰 Ferramentas
 <div>
