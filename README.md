@@ -51,6 +51,12 @@ Tenho prática em desenvolvimento web por meio de projetos acadêmicos e partici
 
 ## 🐍 Contribuições
 <div align="center">
-<img src="https://raw.githubusercontent.com/GabrielBielFerreira/GabrielBielFerreira/main/github-contribution-grid-snake-dark.svg" />
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/GabrielBielFerreira/GabrielBielFerreira/main/github-contribution-grid-snake-dark.svg"
+    width="900"
+    alt="Snake"
+  />
+</div>
 
 </div>
