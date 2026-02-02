@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Olá! Eu sou o Gabriel Ferreira
+#  <img width="241" height="234" alt="image" src="https://github.com/user-attachments/assets/35fb54e6-ab05-43e9-bcb5-c3b78ae32e80" />
+Olá! Eu sou o Gabriel Ferreira
 
 Graduando em **Engenharia de Software** • Foco em **Desenvolvimento Web**  
 📍 Recife – PE, Brasil
