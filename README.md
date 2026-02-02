@@ -19,7 +19,7 @@ Graduando em **Engenharia de Software** • Foco em **Desenvolvimento Web**
 
 ---
 
-## 🧭 Sobre mim
+## 🎧 Sobre mim
 Sou estudante de Engenharia de Software e busco oportunidade como **estagiário/jovem aprendiz** ou **posição júnior**.
 Tenho prática em desenvolvimento web por meio de projetos acadêmicos e participação em iniciativas de tecnologia.
 
