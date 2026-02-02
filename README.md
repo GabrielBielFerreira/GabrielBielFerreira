@@ -36,9 +36,9 @@ Tenho prática em desenvolvimento web por meio de projetos acadêmicos e partici
 </div>
 
 ## 🗄️ Banco de dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-000?logo=postgresql)
-
+<div>
+  <img src="https://skillicons.dev/icons?i=postgres,pgadmin" />
+</div>
 
 
 ## 🧰 Ferramentas
