@@ -1,16 +1,65 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GabrielBielFerreira/GabrielBielFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá! Eu sou o Gabriel Ferreira
 
-Here are some ideas to get you started:
+Graduando em **Engenharia de Software** • Foco em **Desenvolvimento Web**  
+📍 Recife – PE, Brasil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/gabriel-ferreira-539881233/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:gabrielbiel.ferreira0411@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/GabrielBielFerreira" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🧭 Sobre mim
+Sou estudante de Engenharia de Software e busco oportunidade como **estagiário/jovem aprendiz** ou **posição júnior**.
+Tenho prática em desenvolvimento web por meio de projetos acadêmicos e participação em iniciativas de tecnologia.
+
+---
+
+## 💻 Front-end
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</div>
+
+## ⚙️ Back-end
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,python" />
+</div>
+
+## 🗄️ Banco de dados
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</div>
+
+## 🧰 Ferramentas
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+</div>
+
+---
+
+## 📊 Estatísticas
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielBielFerreira&show_icons=true&hide_title=true&hide_border=true&theme=dark" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBielFerreira&layout=compact&hide_border=true&theme=dark" />
+
+</div>
+
+---
+
+## 🐍 Contribuições
+<div align="center">
+
+<img src="https://github.com/GabrielBielFerreira/GabrielBielFerreira/blob/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
