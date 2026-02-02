@@ -1,6 +1,11 @@
 <div align="center">
+<div align="center">
+  <h1>
+    <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px" />
+    Olá! Eu sou o Gabriel Ferreira
+  </h1>
+</div>
 
-👋 Olá! Eu sou o Gabriel Ferreira
 
 Graduando em **Engenharia de Software** • Foco em **Desenvolvimento Web**  
 📍 Recife – PE, Brasil
